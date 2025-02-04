@@ -1,0 +1,6 @@
+pandas 
+spacy 
+nltk 
+wordcloud
+numpy
+nltk
